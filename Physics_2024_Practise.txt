@@ -1,0 +1,262 @@
+Additional Practice Question Paper 2023-24 CLASS XII PHYSICS
+Maximum Marks: 70	Time Allowed: 3 hours.
+
+General Instructions:
+
+(1) There are 33 questions in all. All questions are compulsory.
+(2) This question paper has five sections: Section A, Section B, Section C, Section D and Section E.
+(3) All the sections are compulsory.
+(4) Section A contains sixteen questions, twelve MCQ and four Assertion Reasoning based of 1 mark each, Section B contains five questions of two marks each, Section C contains seven questions of three marks each, Section D contains two case study based questions of four marks each and Section E contains three long answer questions of five marks each.
+(5) There is no overall choice. However, an internal choice has been provided in one question in Section B, one question in Section C, one question in each CBQ in Section D and all three questions in Section E. You have to attempt only one of the choices in such questions.
+(6) Use of calculators is not allowed.
+(7) You may use the following values of physical constants where ever necessary
+i. c = 3 x 108 m/s
+ii. me = 9.1 x10-31 kg
+iii. e = 1.6 x 10-19 C
+iv. µ0 = 4p x 10-7 Tm
+v. h = 6.63 x10-34 Js
+vi. e0 = 8.854 x10-12 
+vii. Avogadro's number = 6.023 X  per gram mole
+VIII. KB= 1.38 X 10-23 J/K
+
+[SECTION A]
+
+Q1. Two parallel plate capacitors X and Y have the same area of plates and same separation between plates, X has air and Y has dielectric of constant 2, between its plates. They are connected in series to a battery of 12V. The ratio of electrostatic energy stored in X and Y is
+(a) 4 : 1	(b) 1 : 4	(c) 2 : 1	(d) 1 : 2
+
+Q2. Two metallic spheres of radii a and b respectively are charged and joined by a wire. The ratio of the electric field intensities at the surfaces of the spheres is
+(a) a/b	(b) b/a	(c) a2/b2	(d) b2/a2
+Q3. The electron drift speed is so small, and the electron's charge is also very small, but we still obtain large amounts of current in a conductor which is due to
+(a) Potential difference( b) length of conductor( c) electron number density(d)Area of cross section
+
+Q4. A steel wire of length L and magnetic dipole moment M is bent in the shape of a semicircle. Now its new magnetic moment will be
+(a) M	(b) 2M /p	(c) M /p	(d) M p
+Q5. A positively charged particle is projected with uniform velocity along the axis of a current carrying long solenoid. Which one of the following statements is true?
+(a) The particle will be accelerated along the axis.
+(b) The particle will follow a circular path.
+(c) The particle will move with same velocity along the axis.
+(d) The particle will follow a parabolic path.
+
+Q6: An electron of mass m orbiting around a nucleus has an angular momentum L. The magnetic field produced by the electron at the center of the orbit of radius r can be expressed as
+
+(a)     (b)       (c)       (d) 
+
+Q7.A point object is placed at the centre of a glass sphere of radius 6cm and refractive index 1.5. The distance of virtual image from the surface of the sphere is
+(a) 2cm	(b) 4 cm	(c) 6 cm	(d)	12 cm.
+Q8. An electromagnetic wave of frequency 5MHz is passing from air to water then the ratio of the frequency will be
+(a) 1:5	(b)	5:1	(c)  1:3	(d)	1:1
+
+Q9. The number of electrons made available for conduction by dopant atoms depends strongly upon
+(a) doping level	(b) increase in ambient temperature
+(c) energy gap	(d) options (a) and (b) both
+
+Q10. The network shown in figure is part of a complete circuit. If at a certain instant the current I is 5A and is decreasing at a rate of 103 A/s, then what is the potential difference between the points A and B?
+
+
+(a) 15V	(b) -15V	(c)	-5V	(d) +5V
+Q11. Light is travelling in vacuum along the Z-axis. The sets of possible electric and magnetic fields could be
+
+
+(i) E ? iˆE0 sin(?t ? kz), B ? ˆj B0 sin(?t ? kz)
+
+(ii)
+
+E ? iˆE0 sin(?t ? kz), B ? ˆj B0 cos(?t ? kz)
+
+(iii) (iv) E ? iˆE0 sin(?t ? kz), B ? ˆj B0 sin(?t ? kz ? ?)
+Find the correct option.
+(a) i	(b)	i and iii both	(c) ii	(d) iv
+
+Q12. The kinetic energy of an electron in ground state of hydrogen atom is 13.6 eV. What will be the potential energy of electron in this state?
+(a) -27.2 eV	(b) +27.2	(c) -13.6 eV	(d) 0 eV
+
+For Questions 13 to 16, two statements are given -one labelled Assertion (A) and other labelled Reason (R). Select the correct answer to these questions from the options as given below.
+(a) If both Assertion and Reason are true and Reason is the correct explanation of  Assertion.
+(b) If both Assertion and Reason are true but Reason is not the correct explanation of	Assertion.
+(c) If Assertion is true but Reason is false.
+(d) If both Assertion and Reason are false.
+
+Q13.
+
+
+
+Q14.
+
+
+Assertion: The net magnetic force experienced by a current carrying loop in a uniform magnetic field is always zero.
+Reason: A current carrying loop placed in a uniform magnetic field never experiences a torque.
+
+Assertion: According to Bohr's atomic model the ratio of angular momenta of an electron in first excited state to that in ground state is 2:1.
+Reason: According to Bohr's theory the angular momentum of the electron is directly proportional to the principal quantum number.
+
+
+
+Q15.
+
+
+Q16.
+
+
+Assertion: Bohr postulated that the electrons in stationary orbits around the nucleus do not radiate energy.
+Reason: According to classical Physics, all accelerated electrons radiate energy.
+
+Assertion: The kinetic energy of photoelectrons emitted by a photosensitive surface depends upon the frequency of incident photon.
+Reason: The ejection of electrons from metallic surface is possible with frequency of incident photon below the threshold frequency.
+
+
+[SECTION B]
+
+Q17:	The following table gives the value of work function for a few photosensitive metals
+
+S.NoMetalWork function(eV)1.Na1.922.K2.153.Mo4.17
+If each of these metals is exposed to radiation of wavelength 400nm, name the element/elements not emitting photo electrons and why?
+
+OR
+
+Two particles A and B of de Broglie wavelengths ?1 and ?2 combine to form a particle C. The process conserves momentum. Find the de Broglie wavelength of the particle C. (The motion is one dimensional).
+
+Q18. In a Young's double -slit experiment, the slits are separated by 0.28 mm and the screen is placed
+1.4 m away. The distance between the central bright fringe and the fourth bright fringe is measured to be 1.2 cm. Determine the wavelength of light used in the experiment.
+.
+Q19. Suppose that the electric field part of an electromagnetic wave in vacuum is
+E= [3.1 N/C] cos [(1.8 rad/m)y + 5.4 × 108 rad/s)t]
+(a) What is the direction of propagation of electromagnetic wave?
+(b) What is the wavelength of electromagnetic wave?
+
+Q20. Find the electrical potential energy of the two identical nuclei formed just after the fission of a
+100X250 nucleus.(R0=1.28 X 10-15)
+
+Q21. Two cells of same emf E but internal resistance r1 and r2 are connected in series to an external resistor R (Fig). What should be the value of R so that the potential difference across the terminals of the first cell becomes zero?
+
+E, r1	E	r2
+
+
+[SECTION C]
+
+Q22. (a) A potential barrier of 0.6 V exists across a semiconductor diode with the depletion region 5 × 10-7 m wide, then what is the intensity of the electric field in this region?
+(a) 	Draw the output signal across R when a square input signal as shown in the figure is applied across the input terminals of the circuit . Assume that the diode is ideal.
+(b) Name the device which acts using unidirectional properties as applicable in previous part.
+
+
+Q23.Two cells of voltage 10V and 2V and internal resistances 10? and 5? respectively, are connected as shown in figure. Find the potential difference across R=2?
+
+
+Q24. (a) In a single-slit diffraction experiment, the width of the slit is made double the original width.
+How does this affect the size and intensity of the central diffraction band?
+(b) How is the width of the central maximum changed when red light is replaced by blue light?
+
+Q25. Draw the energy band diagram when intrinsic semiconductor (Ge32) is doped with impurity atoms of Antimony (Sb51).  Name the extrinsic semiconductor so obtained and majority charge carriers in it. Also what will be the ratio ne: nh for the semiconductor so obtained where ne is the number density of electrons and nh is the number density of holes?
+
+OR
+Draw the energy band diagram when intrinsic semiconductor (Si14) is doped with impurity atoms of Boron (B5).
+Name the extrinsic semiconductor so obtained and majority charge carriers in it. Also what will be the ratio ne:nh for the semiconductor so obtained where ne is the number density of electrons and nh is the number density of holes?
+
+Q26. (a) Out of two magnetic materials A has relative magnetic permeability slightly greater than unity while B has less than unity. Identify the nature of materials A and B. Will their susceptibilities be positive or negative?
+(b) A ball of superconducting material is dipped in liquid nitrogen and placed near a bar magnet. In which direction will it move and why?
+
+Q27. The distance between two point sources of light is 24 cm. Find out where would you place a converging lens of focal length 9 cm so that the images of both the sources are formed at the same point.
+
+Q28. (a) A cell of emf E and internal resistance r is connected with an external  resistance R. Show the graphical variation of terminal voltage across the cell versus resistance R. Predict from the graph the condition under which terminal potential difference V becomes equal to the emf.
+
+(b) The voltage between the terminals of a battery is 6V. When a wire is connected across its terminals, it falls to 5.6 V. If one more identical wire is connected between the terminals then what will be new potential difference across the terminals of the battery?
+
+
+[ SECTION D]
+
+Q29. A galvanometer is used in an electric circuit to detect current and in some experiments to locate the null point. The galvanometer cannot be used as such to measure the value of current. A galvanometer is a very sensitive device. It gives full scale deflection even for a very small current of the order of few microamperes. On the passage of a large current the galvanometer may get damaged either due to the breaking of the pointer or the coil may burn due the production of the excessive heat. A galvanometer can be converted an ammeter by the use of a shunt resistance.
+
+
+
+1. How is a moving coil galvanometer converted into an ammeter of desired range?
+
+(a) Connecting a shunt resistance in series	(b) Connecting a shunt resistance in parallel
+
+(c) Connecting large resistance in series	(d) Connecting a large resistance in parallel
+
+2. A moving coil galvanometer of resistance G gives a full-scale deflection for a current Ig. It is converted into an ammeter of range 0-I ampere. What should be the value of shunt resistance to convert it into an ammeter of desired range?
+
+(a) (b)	(c)	(d)
+
+3. Which one will have the greatest resistance, a micro-ammeter, a milli-ammeter, or an ammeter?
+
+(a) Microammeter	(b) Milliammeter
+
+(c) Ammeter	(d) All will have the same resistance
+
+4. 	The sensitivity of a galvanometer is 60 div/ampere. When a shunt resistance is connected its current sensitivity decreases to 10 div/ampere. What will be the shunt resistance if the resistance of the galvanometer is 20ohm?
+(a) 4 ohm	(b) 5 ohm	(c) 4.5 ohm	(d) 5.5 ohm
+
+OR
+
+An ammeter reads up to 1 ampere. Its internal resistance is 0.81 ohm. To increase the range to 10A, the value of the required shunt is
+(a) 0.9 ohm	(b) 0.09 ohm	(c) 0.03 ohm	(d) 0.3 ohm
+
+Q30.French physicist Louis Victor de Broglie in 1924 put forward the bold hypothesis that moving particles of matter should display wave-like properties under suitable conditions. He reasoned that nature was symmetrical and that the two basic physical entities - matter and energy, must have symmetrical character. If radiation shows dual aspects, so should matter. de Broglie proposed that the wave length ? associated with a particle of momentum p is given as ?=h/p=h/mv. From this equation ? is smaller for a heavier particle (large m) or more energetic particle (large v). de Broglie wavelength of an electron accelerated by a potential difference 'V' can be calculated by ? =12.27vV Å.
+
+1. Which of the following is not an electromagnetic wave?
+(a) Matter wave	(b)	X Rays	(c) Radio wave	(d)	Ultraviolet
+
+2. The	temperature	at	which	average	de-Broglie	wavelength	of	helium	atom	becomes
+0.5 nm is
+(a) 6.6 K	(b) 7.1 K	(c)  279.6 K	(d) 280.1 K
+
+3. An electron, proton and alpha particle, all are accelerated with same potential difference V volt.
+The particle with minimum de Broglie wavelength will be
+(a) electron	(b) proton	(c) alpha particle	( d) deutron
+
+OR
+
+A photon of wavelength ? (less than threshold wavelength ?0) is incident on a metal surface of work function W0. The de-Broglie wavelength of the ejected electron of mass m is
+?	? hc	??	h
+
+(a)
+
+h ?2m ? ?
+
+? W0 ??
+
+(b)
+
+
+
+? hc	?
+
+?	?	??
+
+2m ? ? ? W0 ?
+
+
+(c)	h
+
+?	?
+(d)
+
+4. Determine the velocity of a de-Broglie wave of wavelength ? = h/mv where m is the mass of the particle and v is the velocity of particle.
+(a) (v+c)	(b) (c-v)	(c)     (d)   where c is the speed of light in vacuum
+[SECTION E]
+
+Q31: (a) State Gauss's theorem in electrostatics.
+(b) 	Using Gauss theorem find out an expression for electric field intensity due to uniformly charged infinite plane sheet.
+(c) A body is placed in the form of a right circular cone of dielectric material with base radius R and height h is placed with its base on a horizontal table. A horizontal uniform electric field of magnitude E penetrates the cone. What is the electric flux that enters the body?
+OR
+(a) Sketch the equipotential surfaces due to the charge distribution (i) q1 + q2 = 0 (ii) two identical positive charges.
+
+.	(b) Write 3 important characteristics of an equipotential surface.
+(c) The electric potential (in volt) in a region varies with x according to the relation V(x) = 5 + 4x2, where x is in m.
+(i) Is the electric field in the given region uniform?
+(ii) 	Find the magnitude and direction of the force experienced by a charge of 1C placed at x = -1 m.
+
+Q32.Draw a ray diagram showing the image formation by an astronomical telescope in normal adjustment. Obtain expression for total magnification when the image is formed at infinity.
+A small telescope has an objective lens of focal length 144cm and an eyepiece of focal length 6cm. What is the magnifying power of the telescope and what is the separation between the objective and the eyepiece in normal adjustment?
+OR
+Draw a ray diagram showing the image formation by a compound microscope when the final image is formed at the least distance of distinct vision. Write an expression for the total magnification when the final image is formed at the near point. A compound microscope has an objective of focal length 1.25 cm and eyepiece of focal length 5 cm. A small object is kept at 2.5 cm from the objective. If the final image formed is at infinity, find the distance between the objective and the eyepiece.
+
+Q33. (a) A voltage e = e0 sin ?t applied to a series LCR circuit drives a current i = i0 sin (?t + ?) in the circuit. Deduce the expression for the average power dissipated in the circuit.
+(b) For circuits used for transporting electric power, a low power factor implies large power loss in transmission. Explain.
+(c) In a series LR circuit, XL = R and the power factor of the circuit is P1. When a capacitor of capacitance C such that XL = XC is put in series, the power factor becomes P2. Find P1/P2 .
+OR
+(a) A series LCR circuit is connected to an ac source having voltage e = e0 sin ?t. Derive the expression for the instantaneous current and its phase relationship to the applied voltage. Obtain the condition for resonance to occur.
+(b) In a series LCR circuit, impedance is the same at two frequencies f1 and f2. Show, that the
+resonant frequency is	.
+
+
