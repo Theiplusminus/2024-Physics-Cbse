@@ -1,0 +1,441 @@
+General Instructions :
+Read the following instructions carefully and follow them :
+(i) This question paper contains 33 questions. All questions are compulsory.
+(ii) This question paper is divided into five sections	Sections A, B, C, D and E.
+(iii) In Section A	Questions no. 1 to 16 are Multiple Choice type questions. Each question carries 1 mark.
+(iv) In Section B	Questions no. 17 to 21 are Very Short Answer type questions. Each question carries 2 marks.
+(v) In Section C	Questions no. 22 to 28 are Short Answer type questions. Each question carries 3 marks.
+(vi) In Section D	Questions no. 29 and 30 are case study-based questions. Each question carries 4 marks.
+(vii) In Section E	Questions no. 31 to 33 are Long Answer type questions. Each question carries 5 marks.
+(viii) There is no overall choice given in the question paper. However, an internal choice has been provided in few questions in all the Sections except Section A.
+(ix) Kindly note that there is a separate question paper for Visually Impaired candidates.
+(x) Use of calculators is not allowed.
+You may use the following values of physical constants wherever necessary :
+c = 3	108 m/s
+h = 6.63	10 34 Js
+e = 1.6	10 19 C
+0 = 4	10 7 T m A 1
+0 = 8.854	10 12 C2 N 1 m 2
+1	= 9	109 N m2 C 2
+4	0
+Mass of electron (me) = 9.1	10 31 kg
+Mass of neutron = 1.675	10 27 kg
+Mass of proton = 1.673	10 27 kg
+6.023	1023 per gram mole
+Boltzmann constant = 1.38	10 23 JK 1
+
+SECTION A
+
+1. A thin plastic rod is bent into a circular ring of radius R. It is uniformly charged with charge density . The magnitude of the electric field at its centre is :
+
+
+(A)
+
+
+2 0R
+
+(B)	Zero	(C)
+
+(D)
+4	0
+
+
+
+4 0R
+
+
+2. Ten capacitors, each of capacitance 1 µF, are connected in parallel to a source of 100 V. The total energy stored in the system is equal to :
+(A) 10 2 J	(B)	10 3 J
+(C)	0·5	10 3 J	(D)	5·0	10 2 J
+
+3. Consider the circuit shown in the figure. The potential difference between points A and B is :
+
+(A) 6 V	(B)	8 V	(C)	9 V	(D)	12 V
+
+4. A loop carrying a current I clockwise is placed in x	y plane, in a uniform magnetic field directed along z-axis. The tendency of the loop will be to :
+(A) move along x-axis	(B)	move along y-axis
+(C)	shrink	(D)	expand
+
+5. A 10 cm long wire lies along y-axis. It carries a current of 1.0 A in
+
+^
+positive y-direction. A magnetic field B = (5 mT) j	(8 mT) k
+the region. The force on the wire is :
+
+exists in
+
+(A) (0·8 mN)^
+(C)	(80 mN)^
+(B) 
+(0·8 mN)^
+(D)	(80 mN)^
+
+6. A galvanometer of resistance G	is converted into an ammeter of range
+0 to I A. If the current through the galvanometer is 0.1% of I A, the resistance of the ammeter is :
+
+(A) G
+999
+(B) 
+G
+1000
+(C) 
+	G 1001
+(D) 
+	G 100·1
+
+7. The reactance of a capacitor of capacitance C connected to an ac source of frequency	nce of the capacitor is doubled and the frequency of the source is tripled, the reactance will become :
+
+(A)
+
+X	(B)	6X	(C)	2 X
+6	3
+
+(D)	3 X
+2
+
+8. In the four regions, I, II, III and IV, the electric fields are described as : Region I	:	Ex = E0 sin (kz	t)
+Region II	:	Ex = E0 Region III :	Ex = E0 sin kz Region IV :	Ex = E0 cos kz
+The displacement current will exist in the region :
+(A) I	(B)   IV	(C)  II	(D)  III
+9. The transition of electron that gives rise to the formation of the second spectral line of the Balmer series in the spectrum of hydrogen atom corresponds to :
+(A) nf = 2 and ni = 3	(B)  nf = 3 and ni = 4
+(C)   nf = 2 and ni = 4	(D)  nf = 2 and ni =
+10. Ge is doped with As. Due to doping,
+(A) the structure of Ge lattice is distorted.
+(B) the number of conduction electrons increases.
+(C) the number of holes increases.
+(D) the number of conduction electrons decreases.
+11. Two beams, A and B whose photon energies are 3·3 eV and 11·3 eV respectively, illuminate a metallic surface (work function 2·3 eV) successively. The ratio of maximum speed of electrons emitted due to beam A to that due to beam B is :
+
+(A) 3	(B)	9	(C)
+
+1	(D)	1
+3	9
+
+12. The waves associated with a moving electron and a moving proton have the same wavelength	. It implies that they have the same :
+(A) momentum	(B)	angular momentum
+(C)	speed	(D)	energy
+
+Questions number 13 to 16 are Assertion (A) and Reason (R) type questions. Two statements are given	one labelled Assertion (A) and the other labelled Reason
+(R). Select the correct answer from the codes (A), (B), (C) and (D) as given below.
+(A) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).
+(B) Both Assertion (A) and Reason (R) are true, but Reason (R) is not
+the correct explanation of the Assertion (A).
+(C) Assertion (A) is true, but Reason (R) is false.
+(D) Assertion (A) is false and Reason (R) is also false.
+
+13. Assertion (A) : In photoelectric effect, the kinetic energy of the emitted photoelectrons increases with increase in the intensity of the incident light.
+Reason (R) :	Photoelectric current depends on the wavelength of the incident light.
+
+14. Assertion (A) : The mutual inductance between two coils is maximum when the coils are wound on each other.
+Reason (R) :	The flux linkage between two coils is maximum when they are wound on each other.
+
+15. Assertion (A) : Two long parallel wires, freely suspended and connected in series to a battery, move apart.
+Reason (R) :	Two wires carrying current in opposite directions repel each other.
+
+16. Assertion (A) : Plane and convex mirrors cannot produce real images under any circumstance.
+Reason (R) :	A virtual image cannot serve as an object to produce a real image.
+
+SECTION B
+
+17. Find  the  temperature  at  which  the  resistance  of  a  wire	made  of
+silver	will	be	twice	its	resistance	at	20 C.	Take	20 C	as	the reference temperature and temperature coefficient of resistance of silver
+at 20 C = 4·0	10 3 K 1.	2
+18. (a)  Monochromatic light of frequency 5·0  1014 Hz passes from air into a medium of refractive index 1·5. Find the wavelength of the light (i) reflected, and (ii) refracted at the interface of the two
+media.	2
+OR
+(b)	A plano-convex lens of focal length 16 cm is made of a material of refractive index 1.4. Calculate the radius of the curved surface of
+the lens.	2
+19. An object is placed 30 cm in front of a concave mirror of radius of curvature	40 cm.	Find	the	(i) position	of	the	image	formed	and
+(ii) magnification of the image.	2
+20. Consider a neutron (mass m) of kinetic energy E and a photon of the same energy. Let	n and	p be the de Broglie wavelength of neutron and
+
+the wavelength of photon respectively. Obtain an expression for
+
+  n .	2
+p
+
+21. Plot a graph showing the variation of current with voltage for the material GaAs. On the graph, mark the region where :	2
+(a)	resistance is negative, and
+(b)	
+
+SECTION C
+22. A cube of side 0·1 m is placed, as shown in the figure, in a region where
+
+electric field	E = 500 x^
+
+exists. Here x is in meters and E in NC 1.
+
+Calculate :	3
+(a) the flux passing through the cube, and
+(b) the charge within the cube.
+
+
+23. (a)	Define current density . Is it a scalar or a vector ? An electric field
+
+ E is maintained in a metallic conductor. If n be the number of electrons (mass m, charge	e) per unit volume in the conductor
+	
+and	its relaxation time, show that the current density	j	=	E ,
+
+
+where	=
+
+ne2	.	3
+m
+
+OR
+(b)	What is a Wheatstone bridge ? Obtain the necessary conditions under which the Wheatstone bridge is balanced.	3
+24. A proton with kinetic energy 1·3384	10 14 J moving horizontally from north to south, enters a uniform magnetic field B of 2·0 mT directed eastward. Calculate :		3
+(a) the speed of the proton
+(b) the magnitude of acceleration of the proton
+(c) the radius of the path traced by the proton [Take (q/m) for proton = 1·0	108 C/kg]
+
+25. An inductor, a capacitor and a resistor are connected in series with an ac source v = vm sin t. Derive an expression for the average power dissipated in the circuit. Also obtain the expression for the resonant
+frequency of the circuit.	3
+26. (a)	     
+examples to justify this statement.
+(b) (i)	Long distance radio broadcasts use short-wave bands. Why ?
+(ii)	Optical and radio telescopes are built on the ground, but X-ray astronomy is possible only from satellites orbiting the
+Earth. Why ?	3
+27. Write the drawbacks of Rutherfor
+them	   3
+28. (a)	State any two properties of a nucleus.
+(b) Why is the density of a nucleus much more than that of an atom ?
+(c) Show that the density of the nuclear matter is the same for all nuclei.	3
+SECTION D
+Questions number 29 and 30 are case study-based questions. Read the following paragraphs and answer the questions that follow.
+29. A lens is a transparent medium bounded by two surfaces, with one or both surfaces being spherical. The focal length of a lens is determined by the radii of curvature of its two surfaces and the refractive index of its medium with respect to that of the surrounding medium. The power of a lens is reciprocal of its focal length. If a number of lenses are kept in contact, the power of the combination is the algebraic sum of the powers of the individual lenses.
+
+(i) A double-convex lens, with each face having same radius of curvature R, is made of glass of refractive index n. Its power is :	1
+
+(A)
+
+2 (n	1)
+R
+
+(B)
+
+(2n	1)
+R
+
+(C)
+
+(n	1)
+
+
+
+(D)
+
+(2n	1)
+
+
+
+2 R	2 R
+
+(ii) A double-convex lens of power P, with each face having same radius of curvature, is cut into two equal parts perpendicular to its principal axis. The power of one part of the lens will be :	1
+(A) 2P	(B)	P	(C)	4P	(D)	P
+2
+(iii) The above two parts are kept in contact with each other as shown
+in the figure. The power of the combination will be :	1
+
+
+
+
+
+(A)
+
+
+
+P	(B)	P	(C)	2P	(D)	P
+2	4
+
+
+(iv) (a)	A double-convex lens of power P, with each face having same radius of curvature, is cut along its principal axis. The two parts are arranged as shown in the figure. The power of the combination will be :	1
+(A) Zero	(B)	P
+(C)	2P	(D)	P
+2
+OR
+(b) Two convex lenses of focal lengths 60 cm and 20 cm are held coaxially	in	contact	with each other. The	power	of the combination is :				1
+(A) 6·6 D	(B)	15 D
+
+(C) 1 D
+15
+(D) 
+1 D
+80
+
+30. Junction Diode as a Rectifier :
+The process of conversion of an ac voltage into a dc voltage is called rectification and the device which performs this conversion is called a rectifier. The characteristics of a p-n junction diode reveal that when a p-n junction diode is forward biased, it offers a low resistance and when it is reverse biased, it offers a high resistance. Hence, a p-n junction diode conducts only when it is forward biased. This property of a p-n junction diode makes it suitable for its use as a rectifier.
+Thus, when an ac voltage is applied across a p-n junction, it conducts only during those alternate half cycles for which it is forward biased. A rectifier which rectifies only half cycle of an ac voltage is called a half-wave rectifier and one that rectifies both the half cycles is known as a full-wave rectifier.
+(i) The root mean square value of an alternating voltage applied to a
+
+full-wave rectifier is
+
+V0 . Then the root mean square value of the
+
+
+rectified output voltage is :	1
+
+V
+(A)
+
+(C)
+
+
+(B) 
+
+(D)
+
+ V2
+
+V0
+
+
+(ii) In a full-wave rectifier, the current in each of the diodes flows for :	1
+(A) Complete cycle of the input signal
+(B) Half cycle of the input signal
+(C) Less than half cycle of the input signal
+(D) Only for the positive half cycle of the input signal
+(iii) In a full-wave rectifier :	1
+(A) Both diodes are forward biased at the same time.
+(B) Both diodes are reverse biased at the same time.
+(C) One is forward biased and the other is reverse biased at the same time.
+(D) Both are forward biased in the first half of the cycle and reverse biased in the second half of the cycle.
+
+(iv) (a)	An alternating voltage of frequency of 50 Hz is applied to a half-wave rectifier. Then the ripple frequency of the output
+will be :	1
+(A) 100 Hz	(B)	50 Hz
+(C)	25 Hz	(D)	150 Hz
+OR
+(b)	A signal, as shown in the figure, is applied to a p-n junction diode. Identify the output across resistance RL :	1
+
+
+
+
+(A)
+
+
+
+
+
+
+(B) 
+
+
+
+
+
+
+(C) 
+
+
+
+
+
+
+(D) 
+
+SECTION E
+
+31. (a)	(i)	Derive an expression for potential energy of an electric
+
+dipole	p	in an external uniform electric field E . When is the	potential	energy	of	the	dipole	(1)	maximum,	and
+(2) minimum ?
+(ii)	An electric dipole consists of point charges	1·0 pC and
++ 1·0 pC located at (0, 0) and (3 mm, 4 mm) respectively in
+
+
+
+x	y plane. An electric field E =
+
+^ is switched on
+
+
+in the region. Find the torque   acting on the dipole.	5
+OR
+(b)  (i)  An electric dipole (dipole moment p = p^ ), consisting of charges  q and q, separated by distance 2a, is placed along the x-axis, with its centre at the origin. Show that the
+potential V, due to this dipole, at a point x, (x >> a) is equal
+^
+
+1
+to	.
+0
+
+p . i .
+x2
+
+(ii)	Two isolated metallic spheres S1 and S2 of radii 1 cm and 3 cm respectively are charged such that both have the same
+
+charge density
+
+10 9
+
+C / m2 . They are placed far away
+
+
+from each other and connected by a thin wire. Calculate the
+new charge on sphere S1.	5
+32. (a)	(i)	A resistor and a capacitor are connected in series to an ac source v = vm sin	t. Derive an expression for the impedance
+of the circuit.
+(ii) When does an inductor act as a conductor in a circuit ? Give reason for it.
+
+(iii) An electric lamp is designed to operate at 110 V dc and 11 A current. If the lamp is operated on 220 V, 50 Hz ac source with a coil in series, then find the inductance of
+the coil.	5
+
+OR
+
+(b) (i)  Draw a labelled diagram of a step-up transformer and describe its working principle. Explain any three causes for energy losses in a real transformer.
+(ii) A step-up transformer converts a low voltage into high voltage. Does it violate the principle of conservation of energy ? Explain.
+(iii) A step-up transformer has 200 and 3000 turns in its primary and secondary coils respectively. The input voltage given to the primary coil is 90 V. Calculate :
+(1) The output voltage across the secondary coil
+(2) The current in the primary coil if the current in the secondary coil is 2·0 A.	5
+
+33. (a) (i)  A ray of light passes through a triangular prism. Show graphically, how the angle of deviation varies with the angle of incidence ? Hence define the angle of minimum deviation.
+(ii) A ray of light is incident normally on a refracting face of a prism of prism angle A and suffers a deviation of angle	.
+Prove that the refractive index n of the material of the prism
+
+is given by n
+
+sin (A	) .
+sin A
+
+(iii) The refractive index of the material of a prism is refracting angle of the prism is 60 , find the
+(1) Angle of minimum deviation, and
+
+. If the
+
+
+(2) Angle of incidence.	5
+OR
+
+(b) (i)  State Huygens principle. A plane wave is incident at an angle i on a reflecting surface. Construct the corresponding reflected wavefront. Using this diagram, prove that the angle of reflection is equal to the angle of incidence.
+(ii) What are the coherent sources of light ? Can two independent sodium lamps act like coherent sources ? Explain.
+(iii) A beam of light consisting of a known wavelength 520 nm and an unknown wavelength 
+experiment produces two interference patterns such that the fourth bright fringe of unknown wavelength coincides with the fifth bright fringe of known wavelength. Find the value
+of  .	5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

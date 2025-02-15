@@ -1,0 +1,361 @@
+General Instructions :
+Read the following instructions carefully and follow them :
+(i) This question paper contains 33 questions. All questions are compulsory.
+(ii) This question paper is divided into five sections	Sections A, B, C, D and E.
+(iii) In Section A	Questions no. 1 to 16 are Multiple Choice type questions. Each question carries 1 mark.
+(iv) In Section B	Questions no. 17 to 21 are Very Short Answer type questions. Each question carries 2 marks.
+(v) In Section C	Questions no. 22 to 28 are Short Answer type questions. Each question carries 3 marks.
+(vi) In Section D	Questions no. 29 and 30 are case study based questions. Each question carries 4 marks.
+(vii) In Section E	Questions no. 31 to 33 are Long Answer type questions. Each question carries 5 marks.
+(viii) There is no overall choice given in the question paper. However, an internal choice has been provided in few questions in all the Sections except Section A.
+(ix) Kindly note that there is a separate question paper for Visually Impaired candidates.
+(x) Use of calculators is not allowed.
+You may use the following values of physical constants wherever necessary :
+c = 3	108 m/s
+h = 6.63	10 34 Js
+e = 1.6	10 19 C
+0 = 4	10 7 T m A 1
+0 = 8.854	10 12 C2 N 1 m 2
+1	= 9	109 N m2 C 2
+4	0
+Mass of electron (me) = 9.1	10 31 kg
+Mass of neutron = 1.675	10 27 kg
+Mass of proton = 1.673	10 27 kg
+6.023	1023 per gram mole
+Boltzmann constant = 1.38	10 23 JK 1
+
+SECTION A
+
+1. Two charged particles P and Q, having the same charge but different masses mP and mQ, start from rest and travel equal distances in a
+uniform electric field E in time tP and tQ respectively. Neglecting the
+
+effect of gravity, the ratio	tP
+tQ
+
+
+is :
+
+m
+(A)	P
+mQ
+
+(C)
+
+m
+(B)	Q
+mP
+
+(D)
+
+
+
+
+
+2. Electrons drift with speed vd in a conductor with potential difference V
+across its ends. If V is reduced to	, their drift speed will become :
+
+
+(A) vd 2
+
+(B) vd
+(C) 2 vd
+(D) 4 vd
+
+3. A wire of length 4·4 m is bent round in the shape of a circular loop and carries a current of 1·0 A. The magnetic moment of the loop will be :
+(A) 0·7 Am2
+(B) 1·54 Am2
+(C) 2·10 Am2
+(D) 3·5 Am2
+
+4. A	circular	coil	of	radius	10	cm	is	placed	in	a	magnetic	field
+ B = (1·0 ^i + 0·5 ^j ) mT such that the outward unit vector normal to the
+surface of the coil is (0·6 ^i + 0·8 ^j ). The magnetic flux linked with the coil is :
+(A) 0·314	Wb	(B)	3·14	Wb
+(C)	31·4	Wb	(D)	1·256	Wb
+
+5. Which of the following quantity/quantities remains same in primary and secondary coils of an ideal transformer ?
+Current, Voltage, Power, Magnetic flux
+(A) Current only
+(B) Voltage only
+(C) Power only
+(D) Magnetic flux and Power both
+
+
+6. A resistor and an ideal inductor are connected in series to a 100	V,
+50 Hz ac source. When a voltmeter is connected across the resistor or the inductor, it shows the same reading. The reading of the voltmeter is :
+(A) 100	V	(B)	100 V
+(C)	50	V	(D)	50 V
+
+
+7. Electromagnetic waves with wavelength 10 nm are called :
+
+(A)	Infrared waves(B)Ultraviolet rays(C)	Gamma rays(D)X-rays
+8. The work function for a photosensitive surface is 3·315 eV. The cut-off wavelength for photoemission of electrons from this surface is :
+(A) 150 nm	(B)	200 nm
+(C)	375 nm	(D)	500 nm
+
+9. Energy levels A, B and C of an atom correspond to increasing values of energy i.e. EA < EB < EC. Let 1, 2 and 3 be the wavelengths of radiation corresponding to the transitions C to B, B to A and C to A,
+respectively. The correct relation between  1,  2 and  3 is :
+
+(A) 2	2	2
+(B) 
+
+
+1	+	1	=	1
+1	2	3
+
+(C) 1 +	2 +	3 = 0	(D)	1 +	2 =	3
+10. An alpha particle approaches a gold nucleus in Geiger-Marsden experiment with kinetic energy K. It momentarily stops at a distance d from the nucleus and reverses its direction. Then d is proportional to :
+
+(A)
+(C)
+
+1	(B)
+K
+1	(D)	K
+K
+
+
+11. An n-type semiconducting Si is obtained by doping intrinsic Si with :
+(A) Al	(B)	B
+(C)	P	(D)	In
+
+12. When a p-n junction diode is subjected to reverse biasing :
+(A) the barrier height decreases and the depletion region widens.
+(B) the barrier height increases and the depletion region widens.
+(C) the barrier height decreases and the depletion region shrinks.
+(D) the barrier height increases and the depletion region shrinks.
+
+Questions number 13 to 16 are Assertion (A) and Reason (R) type questions. Two statements are given	one labelled Assertion (A) and the other labelled Reason
+(R). Select the correct answer from the codes (A), (B), (C) and (D) as given below.
+(A) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).
+(B) Both Assertion (A) and Reason (R) are true, but Reason (R) is not
+the correct explanation of the Assertion (A).
+(C) Assertion (A) is true, but Reason (R) is false.
+(D) Assertion (A) is false and Reason (R) is also false.
+
+13. Assertion (A) : Photoelectric current increases with an increase in intensity of incident radiation, for a given frequency of incident radiation and the accelerating potential.
+Reason (R) :  Increase in the intensity of incident radiation results in an increase in the number of photoelectrons emitted per second and hence an increase in the photocurrent.
+
+14. Assertion (A) :
+energy.
+
+Reason (R) :	There is no power loss in an ideal inductor.
+
+15. Assertion (A) : An electron and a proton enter with the same momentum
+
+p	in a magnetic field B such that	p
+describe a circular path of the same radius.
+
+B. Then both
+
+
+Reason (R) :	The radius of the circular path described by the charged
+particle (charge q, mass m) moving in the magnetic field
+
+B is given by r =
+
+mv . qB
+
+
+16. Assertion (A) : The	magnifying	power	of	a	compound	microscope	is negative.
+Reason (R) :	The final image formed is erect with respect to the object.
+
+SECTION B
+17. Define resistivity of a conductor. How does the resistivity of a conductor depend upon the following :	2
+(a) Number density of free electrons in the conductor (n)
+(b) Their relaxation time ( )
+
+18. (a)
+
+two coherent sources of light superpose at a point. If the phase difference between the two waves is , obtain an expression for the resultant intensity at that point.	2
+OR
+
+(b)  What is the effect on the interference pattern in	-slit experiment when (i) the source slit is moved closer to the plane of the slits, and (ii) the separation between the two slits is increased ?
+Justify your answers.	2
+19. A convex lens (n = 1·52) has a focal length of 15·0 cm in air. Find its focal length when it is immersed in liquid of refractive index 1·65. What will be
+the nature of the lens ?	2
+
+20. The carbon isotope 12
+
+has a nuclear mass of 12·000000 u. Calculate the
+
+binding energy of its nucleus.
+Given mp = 1·007825 u; mn = 1·008665 u.	2
+21. How does the energy gap of an intrinsic semiconductor effectively change when doped with a (a) trivalent impurity, and (b) pentavalent impurity ? Justify your answer in each case.	2
+SECTION C
+22. The figure shows a circuit with three ideal batteries. Find the magnitude
+and direction of currents in the branches AG, BF and CD.	3
+
+
+23. (a)  On what factors does the speed of an electromagnetic wave in a medium depend ?
+(b) How is an electromagnetic wave produced ?
+(c) Sketch a schematic diagram depicting the electric and magnetic fields for an electromagnetic wave propagating along z-axis.	3
+24. A 100-turn coil of radius 1·6 cm and resistance 5·0 is co-axial with a solenoid of 250 turns/cm and radius 1·8 cm. The solenoid current drops from 1·5 A to zero in 25 ms. Calculate the current induced in the coil in
+this duration. (Take  2 = 10)	3
+25. (a)	Two long, straight, parallel conductors carry steady currents in opposite directions. Explain the nature of the force of interaction between them. Obtain an expression for the magnitude of the force between the two conductors. Hence define one ampere.	3
+OR
+(b) Obtain an expression for the torque   acting on a current carrying
+loop in a uniform magnetic field B. Draw the necessary diagram.	3
+26. 	, derive the expression for the radius of the nth orbit of an electron in a hydrogen atom. Also find the numerical value of
+0.	3
+
+27. de Broglie wavelength	as a function of
+
+1	, for two particles of masses
+K
+
+m1 and m2 are shown in the figure. Here, K is the energy of the moving particles.
+
+
+
+(a) What does the slope of a line represent ?
+(b) Which of the two particles is heavier ?
+(c) Is this graph also valid for a photon ?
+Justify your answer in each case.	3
+
+28. With the help of a circuit diagram, explain the working of a p-n junction diode as a full wave rectifier. Draw its input and output waveforms.	3
+SECTION D
+Case Study Based Questions
+
+Questions number 29 and 30 are case study based questions. Read the following paragraphs and answer the questions that follow.
+29. When the terminals of a cell are connected to a conductor of resistance R, an electric current flows through the circuit. The electrolyte of the cell also offers some resistance in the path of the current, like the conductor. This resistance offered by the electrolyte is called internal resistance of the cell (r). It depends upon the nature of the electrolyte, the area of the electrodes immersed in the electrolyte and the temperature. Due to internal resistance, a part of the energy supplied by the cell is wasted in the form of heat.
+When no current is drawn from the cell, the potential difference between the two electrodes in known as emf of the cell ( ). With a current drawn from the cell, the potential difference between the two electrodes is termed as terminal potential difference (V).
+(i) Choose the incorrect statement :	1
+(A) The potential difference (V) between the two terminals of a cell in a closed circuit is always less than its emf ( ), during discharge of the cell.
+(B) The internal resistance of a cell decreases with the decrease in temperature of the electrolyte.
+(C) When current is drawn from the cell then V =   Ir.
+(D) The graph between potential difference between the two terminals of the cell (V) and the current (I) through it is a straight line with a negative slope.
+(ii) Two cells of emfs 2·0 V and 6·0 V and internal resistances 0·1	and 0·4	respectively, are connected in parallel. The equivalent emf of the combination will be :		1
+(A) 2·0 V	(B)	2·8 V
+(C)	6·0 V	(D)	8·0 V
+
+(iii) Dipped in the solution, the electrode exchanges charges with the electrolyte. The positive electrode develops a potential V+ (V+ > 0), and the negative electrode develops a potential  (V ) (V   0), relative
+to the electrolyte adjacent to it. When no current is drawn from the cell then :	1
+(A)    = V+ + V  > 0	(B)    = V+  V  > 0
+(C)    = V+ + V  < 0	(D)    = V+ + V  = 0
+(iv) (a)  Five identical cells, each of emf 2 V and internal resistance 0·1 are connected in parallel. This combination in turn is connected to an external resistor of 9·98  . The current
+flowing through the resistor is :	1
+(A) 0·05 A	(B)	0·1 A
+(C)	0·15 A	(D)	0·2 A
+OR
+(b) Potential difference across a cell in the open circuit is 6 V. It becomes 4 V when a current of 2 A is drawn from it. The internal resistance of the cell is :	1
+(A) 1·0	(B)	1·5
+(C)	2·0	(D)	2·5
+30. When a ray of light propagates from a denser medium to a rarer medium, it bends away from the normal. When the incident angle is increased, the refracted ray deviates more from the normal. For a particular angle of incidence in the denser medium, the refracted ray just grazes the interface of the two surfaces. This angle of incidence is called the critical angle for the pair of media involved.
+(i) For a ray incident at the critical angle, the angle of reflection is :	1
+(A) 0	(B)   < 90
+(C)   > 90	(D)   90
+(ii) A ray of light of wavelength 600 nm is incident in water	n	4	on
+3
+the water-air interface at an angle less than the critical angle. The wavelength associated with the refracted ray is :	1
+(A) 400 nm	(B)	450 nm
+(C)	600 nm	(D)	800 nm
+
+(iii) (a)   The interface AB between the two media A and B is shown in the figure. In the denser medium A, the incident ray PQ makes an angle of 30 with the horizontal. The refracted ray is parallel to the interface. The refractive index of medium B
+w.r.t. medium A is :	1
+
+
+
+
+
+
+(A)
+
+(C)
+
+
+3	(B)	5
+2	2
+4	(D)	2
+3	3
+OR
+
+(b) Two media A and B are separated by a plane boundary. The speed of light in medium A and B is 2  108 ms 1 and 2·5  108 ms 1 respectively. The critical angle for a ray of
+light going from medium A to medium B is :	1
+
+(A) sin 1
+(C)	sin 1
+
+1	(B)	sin 1 4
+2	5
+3	(D)	sin 1 2
+5	5
+
+(iv) The figure shows the path of a light ray through a triangular prism. In this phenomenon, the angle	is given by :	1
+
+(A) sin 1	(B)	sin 1 (n2	1)
+
+
+(C) sin 1
+(D) 
+sin 1
+
+1
+
+
+(n2	1)
+
+SECTION E
+
+31. (a)  (i)  Obtain an expression for the electric potential due to a small dipole of dipole moment p , at a point r from its centre, for much larger distances compared to the size of the dipole.
+(ii)   Three point charges q, 2q and nq are placed at the vertices of an equilateral triangle. If the potential energy of the
+system is zero, find the value of n.	5
+OR
+(b) (i)		electrostatics. Apply this to obtain the electric field E at a point near a uniformly charged infinite plane sheet.
+(ii) Two long straight wires 1 and 2 are kept as shown in the figure. The linear charge density of the two wires are
+1 = 10  C/m and  2 =   20  C/m. Find the net force  F
+experienced by an electron held at point P.	5
+
+
+
+
+32. (a)   (i)   A particle of mass m and charge q is moving with a velocity v in a magnetic field B as shown in the figure. Show that it follows a helical path. Hence, obtain its frequency of revolution.
+
+
+
+
+
+
+(ii)	In a hydrogen atom, the electron moves in an orbit of radius 2 Å making 8	1014 revolutions per second. Find the magnetic
+moment associated with the orbital motion of the electron.	5
+OR
+(b) (i)  What is current sensitivity of a galvanometer ? Show how the current sensitivity of a galvanometer may be increased. Increasing the current sensitivity of a galvanometer may not necessarily increase its voltage sensi	Explain.
+(ii) A moving coil galvanometer has a resistance 15   and takes
+20 mA to produce full scale deflection. How can this galvanometer be converted into a voltmeter of range 0 to
+100 V ?	5
+
+33. (a)  (i)  Give any two differences between the interference pattern obtained in Young s double-slit experiment and a diffraction pattern due to a single slit.
+(ii) Draw an intensity distribution graph in case of a double-slit interference pattern.
+(iii) In Young s double-slit experiment using monochromatic light of wavelength , the intensity of light at a point on the screen, where path difference is , is K units. Find the intensity of light at a point on the screen where the path
+difference is 6 .	5
+OR
+(b)  (i)  Draw a labelled ray diagram of a compound microscope showing image formation at least distance of distinct vision. Derive an expression for its magnifying power.
+(ii)   A telescope consists of two lenses of focal length 100 cm and 5 cm. Find the magnifying power when the final image is
+formed at infinity.	5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

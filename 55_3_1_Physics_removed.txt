@@ -1,0 +1,262 @@
+General Instructions :
+Read the following instructions carefully and follow them :
+(i) This question paper contains 33 questions. All questions are compulsory.
+(ii) This question paper is divided into five sections	Sections A, B, C, D and E.
+(iii) In Section A	Questions no. 1 to 16 are Multiple Choice type questions. Each question carries 1 mark.
+(iv) In Section B	Questions no. 17 to 21 are Very Short Answer type questions. Each question carries 2 marks.
+(v) In Section C	Questions no. 22 to 28 are Short Answer type questions. Each question carries 3 marks.
+(vi) In Section D	Questions no. 29 and 30 are case study based questions. Each question carries 4 marks.
+(vii) In Section E	Questions no. 31 to 33 are Long Answer type questions. Each question carries 5 marks.
+(viii) There is no overall choice given in the question paper. However, an internal choice has been provided in few questions in all the Sections except Section A.
+(ix) Kindly note that there is a separate question paper for Visually Impaired candidates.
+(x) Use of calculators is not allowed.
+You may use the following values of physical constants wherever necessary :
+c = 3	108 m/s
+h = 6.63	10 34 Js
+e = 1.6	10 19 C
+0 = 4	10 7 T m A 1
+0 = 8.854	10 12 C2 N 1 m 2
+1	= 9	109 N m2 C 2
+4	0
+Mass of electron (me) = 9.1	10 31 kg
+Mass of neutron = 1.675	10 27 kg
+Mass of proton = 1.673	10 27 kg
+6.023	1023 per gram mole
+Boltzmann constant = 1.38	10 23 JK 1
+
+SECTION A
+1. Consider a group of charges q1, q2, q3	q	0. Then equipotentials at a large distance, due to this group are approximately :
+(A) Plane	(B) Spherical surface
+(C)	Paraboloidal surface	(D) Ellipsoidal surface
+2. A proton is taken from point P1 to point P2, both located in an electric field. The potentials at points P1 and P2 are 5 V and + 5 V respectively. Assuming that kinetic energies of the proton at points P1 and P2 are zero, the work done on the proton is :
+(A)    1·6  10 18 J	(B) 1·6  10 18 J
+(C)   Zero	(D) 0·8  10 18 J
+3. A 2.0 cm segment of wire, carrying 5.0 A current in positive y-direction lies along y-axis, as shown in the figure. The magnetic field at a point (3 m, 4 m, 0) due to this segment (part of a circuit) is :
+
+
+(A)   (0.12 nT) ^j	(B)   (0.10 nT) ^j
+(C)    (0.24 nT) ^k	(D) (0.24 nT) ^k
+4. A circular loop of wire, carryi	 -plane with its centre coinciding with the origin. It is subjected to a uniform magnetic field pointing along + z-axis. The loop will :
+(A)   move along x-axis	(B) move along  y-axis
+(C)   move along z-axis	(D) remain stationary
+
+5. A current carrying circular loop of magnetic moment M is suspended in a vertical plane in an external magnetic field B such that its plane is normal to B . The work done in rotating this loop by 45 about an axis perpendicular to B is closest to :
+(A)	0.3 MB	(B)	0.3 MB
+(C)	1.7 MB	(D)	1.7 MB
+6. The current in a coil of 15 mH increases uniformly from zero to 4 A in
+0.004 s. The emf induced in the coil will be :
+(A)	22·5 V	(B)	17·5 V
+(C)	15·0 V	(D)	12·5 V
+
+7. Consider a solenoid of length l and area of cross-section A with fixed number of turns. The self-inductance of the solenoid will increase if :
+(A) both l and A are increased
+(B) l is decreased and A is increased
+(C) l is increased and A is decreased
+(D) both l and A are decreased
+
+8. Which one of the following has the highest frequency ?
+(A)	Infrared rays	(B)	Gamma rays
+(C)	Radio waves	(D)	Microwaves
+
+9. A proton and an alpha particle having equal velocities approach a target nucleus. They come momentarily to rest and then reverse their directions. The ratio of the distance of closest approach of the proton to that of the alpha particle will be :
+
+(A)
+
+(C)
+
+1	(B)	2
+2
+1	(D)	4
+4
+
+10. Which one of the following is the correct graph between the maximum kinetic energy (Km) of the emitted photoelectrons and the frequency of
+incident radiation (v) for a given photosensitive surface ?
+
+
+
+
+
+
+
+11. An electron makes a transition from n = 2 level to n = 1 level in the Bohr model of a hydrogen atom. Its period of revolution :
+(A) increases by 87·5%
+(B) decreases by 87·5%
+(C) increases by 43·75%
+(D) decreases by 43·75%
+
+12. Si is doped with a pentavalent element. The energy required to set the additional electron free is about :
+(A)	0·01 eV	(B)	0·05 eV
+(C)	0·72 eV	(D)	1·1 eV
+
+Questions number 13 to 16 are Assertion (A) and Reason (R) type questions. Two statements are given	one labelled Assertion (A) and the other labelled Reason
+(R). Select the correct answer from the codes (A), (B), (C) and (D) as given below.
+(A) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).
+(B) Both Assertion (A) and Reason (R) are true, but Reason (R) is not
+the correct explanation of the Assertion (A).
+(C) Assertion (A) is true, but Reason (R) is false.
+(D) Assertion (A) is false and Reason (R) is also false.
+
+13. Assertion (A) : In a semiconductor, the electrons in the conduction band have lesser energy than those in the valence band.
+Reason (R) :	Donor energy level is just above the valence band in a semiconductor.
+
+14. Assertion (A) : Photoelectric effect demonstrates the particle nature of light.
+Reason (R) :	Photoelectric	current	is	proportional	to	frequency	of incident radiation.
+
+15. Assertion (A) : A proton and an electron enter a uniform magnetic field B with the same momentum p such that p is perpendicular to B . They describe circular paths of the
+same radius.
+Reason (R) :	In a magnetic field, orbital radius r is equal to	p .
+qB
+
+16. Assertion (A) : A convex lens, when immersed in a liquid, disappears.
+Reason (R) :	The refractive indices of material of the lens and the liquid are equal.
+
+SECTION B
+17. (a)	What is meant by relaxation time of free electrons in a conductor ? Show that the resistance of a conductor can be expressed by
+R =	m l	, where symbols have their usual meanings.	2
+ne2
+OR
+(b)	Draw the circuit diagram of a Wheatstone bridge. Obtain the condition when no current flows through the galvanometer in it.	2
+18. The magnifying power of an astronomical telescope is 24. In normal adjustment, distance between its two lenses is 150 cm. Find the focal length of the objective lens.	2
+19. Explain the following :	2
+(a) For a simple microscope, the angular size of the object equals the angular size of the image. Yet it offers magnification.
+(b) Both plane and convex mirrors produce virtual images of objects. Can they produce real images under some circumstances ?
+20. The minimum intensity of white light that our eyes can perceive is about
+0.1 nWm 2. Calculate the number of photons of this light entering our pupil (area 0.4 cm2) per second.	2
+constant = 6.6  10 34 Js)
+21. Suppose a pure Si crystal has 5 1028 atoms m 3. It is doped by 1 ppm concentration of boron. Calculate the concentration of holes and electrons, given that ni = 1·5  1016 m 3. Is the doped crystal n-type or
+p-type ?	2
+
+SECTION C
+22. Determine the current in branches AB, AC and BC of the network shown
+in figure.	3
+
+23. Two long straight parallel conductors carrying currents, exert a force on each other. Why ? Derive an expression for the force per unit length between two long straight parallel conductors carrying currents in opposite directions. Explain the nature of the force between these conductors.	3
+24. A sinusoidal voltage is applied to an electric circuit containing a circuit
+ge by 2 .
+(a) Identify the circuit
+(b) Write the formula for its reactance.
+(c) Show graphically the variation of this reactance with frequency of ac voltage.
+(d) Explain the behaviour of this element when it is used in (i) an ac circuit, and (ii) a dc circuit.	3
+
+25. The electric field in an electromagnetic wave in vacuum is given by :
+E = (6·3 N/C) [cos (1·5 rad/m) y + (4·5	108 rad/s) t] ^i
+(a) Find the wavelength and frequency of the wave.
+(b) What is the amplitude of the magnetic field of the wave ?
+(c) Write an expression for the magnetic field of this wave.	3
+
+
+26. 	nd	second	postulates.	Use	them	to	derive	an expression for the radius of the nth orbit in a hydrogen atom.			3
+
+
+27. (a)	Define atomic mass unit (u).
+(b)	Calculate the energy required to separate a deuteron into its constituent parts (a proton and a neutron). Given :	3
+m(D) = 2.014102 u mH = 1.007825 u
+mn = 1.008665 u
+
+
+28. (a)	Draw the circuit diagrams for obtaining the V	I characteristics of a p-n junction diode. Explain briefly the salient features of the
+V	I characteristics in (i) forward biasing, and (ii) reverse biasing.	3
+OR
+(b)	On the basis of energy band diagrams, distinguish between (i) an insulator, (ii) a semiconductor, and (iii) a conductor.	3
+
+SECTION D
+Case Study Based Questions
+Questions number 29 and 30 are case study based questions. Read the following paragraphs and answer the questions that follow.
+
+29. The figure shows four pairs of parallel identical conducting plates, separated by the same distance 2.0 cm and arranged perpendicular to x-axis. The electric potential of each plate is mentioned. The electric field between a pair of plates is uniform and normal to the plates.
+
+
+(i) For which pair of the plates is the electric field E	along ^i ?	1
+(A) I	(B)	II
+(C)	III	(D)	IV
+
+(ii) An electron is released midway between the plates of pair IV. It
+will :	1
+(A) move along ^i at constant speed
+(B) move along	^i at constant speed
+(C) accelerate along ^i
+(D) accelerate along	^i
+
+(iii) Let V0 be the potential at the left plate of any set, taken to be at x = 0 m. Then potential V at any point (0	x	2 cm) between the
+plates of that set can be expressed as :	1
+(A) V = V0 +	x	(B)	V = V0 +	x2
+(C)	V = V0 +	x1/2	(D)	V = V0 +	x3/2
+where	is a constant, positive or negative.
+
+(iv) (a)	Let E1, E2, E3 and E4 be the magnitudes of the electric field between the pairs of plates, I, II, III and IV respectively. Then :	1
+(A) E1 > E2 > E3 > E4	(B)	E3 > E4 > E1 > E2
+(C)	E4 > E3 > E2 > E1	(D)	E2 > E3 > E4 > E1
+OR
+(b)  An electron is projected from the right plate of set I directly towards its left plate. It just comes to rest at the plate. The speed with which it was projected is about :
+(Take (e/m) =1.76  1011 C/kg)	1
+
+(A)	1.3105 m/s(B)2.6106 m/s(C)	6.5105 m/s(D)5.2107 m/s
+30. Diffraction and interference are closely related phenomena that occur together. Diffraction is the phenomenon of bending of light around the edges of the obstacle, while interference is the combination of waves that results in a new wave pattern. In order to get interference, there must be at least two waves that are diffracting. So while diffraction can occur without interference, interference cannot occur without diffraction.
+Two slits of width 2 m each in an opaque material are separated by a distance of 6 m. Monochromatic light of wavelength 450 nm is incident normally on the slits. One finds a combined interference and diffraction pattern on the screen.
+
+(i) The number of peaks of the interference fringes formed within the central peak of the envelope of the diffraction pattern will be :	1
+(A) 2	(B)  3
+(C)  4	(D)  6
+(ii) The number of peaks of the interference formed if the slit width is doubled while keeping the distance between the slits same will be :	1
+(A) 1	(B)	2
+(C)	3	(D)	4
+(iii) (a)  If instead of 450 nm light, another light of wavelength 680 nm is used, number of peaks of the interference formed in the central peak of the envelope of the diffraction pattern
+will be :	1
+(A) 2	(B)	4
+(C)	6	(D)	9
+
+OR
+(b) Consider the diffraction of light by a single slit described in this case study. The first minimum falls at an angle	equal
+to :	1
+(A) sin 1 (0.12)	(B)	sin 1 (0.225)
+(C)	sin 1 (0.32)	(D)	sin 1 (0.45)
+(iv) The number of bright fringes formed due to interference on 1 m of screen placed at 4 m away from the slits is :	1
+3
+(A) 2	(B)	3
+(C)	6	(D)	10
+SECTION E
+31. (a)	(i)	Obtain the expression for the capacitance of a parallel plate capacitor with a dielectric medium between its plates.
+(ii)	A charge of 6	C is given to a hollow metallic sphere of radius
+0.2 m. Find the potential at (i) the surface and (ii) the centre
+of the sphere.	5
+OR
+(b)	(i)	A charge + Q is placed on a thin conducting spherical shell of rad	an expression for the
+electric field at a point lying (i) inside and (ii) outside the shell.
+(ii)	Show that the electric field for same charge density ( ) is twice in case of a conducting plate or surface than in a nonconducting sheet.	5
+
+32. (a) (i) (1) What is meant by current sensitivity of a galvanometer ? Mention the factors on which it depends.
+(2) A galvanometer of resistance G is converted into a voltmeter of range (0  V) by using a resistance R. Find the resistance, in terms of R and G, required to convert it
+into a voltmeter of range	0	.
+
+
+(ii)  The magnetic flux through a coil of resistance 5  increases with time as :
+= (2.0 t3 + 5.0 t2 + 6.0 t) mWb
+Find the magnitude of induced current through the coil at
+t = 2 s.	5
+OR
+(b)  (i)  A rectangular coil of N turns and area of cross-section A is rotated at a steady angular speed  in a uniform magnetic field. Obtain an expression for the emf induced in the coil at any instant of time.
+(ii) Two coplanar and concentric circular loops L1 and L2 are placed coaxially with their centres coinciding. The radii of L1 and L2 are 1 cm and 100 cm respectively. Calculate the
+mutual inductance of the loops. (Take  2 = 10)	5
+33. (a) (i) Trace the path of a ray of light showing refraction through a triangular prism and hence obtain an expression for angle of deviation ( ) in terms of A, i and e, where symbols have their usual meanings. Draw a graph showing the variation of angle of deviation with the angle of incidence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
